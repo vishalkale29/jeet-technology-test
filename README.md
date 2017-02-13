@@ -1,3 +1,4 @@
+Step for Project run
 firstly import your project into workspace
 Create table in your database with following this query-- 
 CREATE TABLE  "USERREGISTER" 
